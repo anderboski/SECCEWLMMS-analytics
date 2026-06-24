@@ -23,6 +23,24 @@ The Google Sheet stays the single source of truth — the app only reads from it
 - **`/definitions`** — the list of sport categories plus the ten scoring metrics and their weights.
 - Pastel / retro styling; current page highlighted in blue.
 
+## Screenshots
+
+### Raw data
+
+![Raw data table](docs/screenshots/rawdata.png)
+
+### Score timegraph
+
+![Score timegraph](docs/screenshots/score_timegraph.png)
+
+### Sport barchart
+
+![Sport barchart](docs/screenshots/sport_barchart.png)
+
+### Definitions
+
+![Definitions](docs/screenshots/definitions.png)
+
 ## How it works
 
 ```
