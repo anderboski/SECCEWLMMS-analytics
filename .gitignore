@@ -4,5 +4,8 @@ dist
 *.json
 !package.json
 !package-lock.json
+!useraccount.example.json
+useraccount.json
 .conn_test.mjs
 .DS_Store
+ignore.txt
